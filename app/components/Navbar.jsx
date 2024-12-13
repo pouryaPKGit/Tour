@@ -30,7 +30,7 @@ const Navbar = () => {
     >
       <div className="flex items-center">
         <Image
-          src="/images/Untitled-1.png2.png"
+          src="/images/Untitled-1.webp"
           alt="logo"
           width={80}
           height={80}
